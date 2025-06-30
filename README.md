@@ -89,10 +89,21 @@
 
 ---
 
+## 👤 Personal Info
+
+- **Name:** Ahmad Muhammadi
+- **Username:** [a7medmo7amady](https://github.com/a7medmo7amady)
+- **Pronouns:** he/him
+- **Title:** Software Engineering student
+- **Age:** 20
+- **Location:** Cairo
+- **LinkedIn:** [ahmed-mohammady-237a40275](https://www.linkedin.com/in/ahmed-mohammady-237a40275)
+
+---
+
 
 ## 🧑‍💻 My Workflow
 
-- 🔄 Automate everything that can be automated
 - 🧪 Experiment, learn, iterate
 - 🛠️ Build, break, and rebuild
 - 🤝 Collaborate and contribute
@@ -111,17 +122,4 @@
 
 - **Email**: ahmedmohamady2005@gmail.com
 - **Phone**: +201030664169
----
-
-
-## 👤 Personal Info
-
-- **Name:** Ahmad Muhammadi
-- **Username:** [a7medmo7amady](https://github.com/a7medmo7amady)
-- **Pronouns:** he/him
-- **Title:** Software Engineering student
-- **Age:** 20
-- **Location:** Cairo
-- **LinkedIn:** [ahmed-mohammady-237a40275](https://www.linkedin.com/in/ahmed-mohammady-237a40275)
-
 ---
