@@ -30,10 +30,21 @@
   <img src="https://github-profile-trophy.vercel.app/?username=a7medmo7amady&theme=onedark&no-frame=true&margin-w=10" alt="Trophies" />
 </p>
 
+<!-- GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=a7medmo7amady&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<!-- GitHub Streak -->
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=a7medmo7amady&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
+<!-- Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7medmo7amady&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=a7medmo7amady&style=flat-square&color=4FD1C5" alt="Profile Views" />
