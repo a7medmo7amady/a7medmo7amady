@@ -1,11 +1,10 @@
 
-<!-- ⚠️ LOCKED IN Warning GIF -->
 <p align="center">
   <img src="https://media.tenor.com/p3ilqG49j9HAAAAC/warning-alert.gif" alt="LOCKED IN WARNING" width="250"/>
 </p>
 
 <p align="center">
-  <strong><span style="font-size: 40px; color: #4FD1C5;">⚠️ LOCKED IN ⚠️</span></strong>
+  <strong><span style="font-size: 90px; color: #4FD1C5;">**LOCKED IN**</span></strong>
 </p>
 
 
@@ -14,7 +13,6 @@
     <img src="https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png?raw=true" alt="Banner" width="100%" />
   </p>
 
-<!-- Animated Typing SVG -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=4FD1C5&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Ahmad+Muhammadi!;Web+Dev+%7C+Software+Engineering+%7C+DevOps+%7C+Web+Dev+Enthusiast;Welcome+to+my+slapping+GitHub+profile!" alt="Typing SVG" />
 </p>
@@ -40,7 +38,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=a7medmo7amady&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
-<!-- Top Languages -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7medmo7amady&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
@@ -57,17 +54,13 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
-- 🧑‍💻 **Software Engineer | Web Developer | DevOps Enthusiast | Problem Solver**
-- 💡 Passionate about designing robust, scalable, and efficient systems
-- 🌐 Experienced in building modern web applications and automating workflows
-- 🔧 Enjoy tackling complex problems and optimizing solutions
-- 🤝 Collaborative team player and continuous learner
+- **Software Engineer | Web Developer | DevOps Enthusiast | Problem Solver**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
@@ -100,7 +93,7 @@
 
 ---
 
-## 👤 Personal Info
+##  Personal Info
 
 - **Name:** Ahmad Muhammadi
 - **Username:** [a7medmo7amady](https://github.com/a7medmo7amady)
@@ -113,23 +106,8 @@
 ---
 
 
-## 🧑‍💻 My Workflow
 
-- 🧪 Experiment, learn, iterate
-- 🛠️ Build, break, and rebuild
-- 🤝 Collaborate and contribute
-- 📈 Measure, optimize, repeat
-
----
-
-
-## 🔭 What I'm Working On
-
-- Software Engineering
-- Web Development
----
-
-## 🌐 Reach Me
+##  Reach Me
 
 - **Email**: ahmedmohamady2005@gmail.com
 - **Phone**: +201030664169
