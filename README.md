@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <strong><span style="font-size: 90px; color: #4FD1C5;">**LOCKED IN**</span></strong>
+  <strong><span style="font-size: 90px; color: #4FD1C5;">LOCKED IN</span></strong>
 </p>
 
 
