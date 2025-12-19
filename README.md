@@ -30,7 +30,7 @@ currently_learning: Computer Visiob && Embedded systems
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <table>
 <tr>
@@ -82,26 +82,10 @@ currently_learning: Computer Visiob && Embedded systems
 
 ---
 
-### Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=a7medmo7amady&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" />
-</p>
-
----
-
 ### Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=a7medmo7amady&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4FD1C5&line=4FD1C5&point=FFFFFF" width="100%" />
-</p>
-
----
-
-###  Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
