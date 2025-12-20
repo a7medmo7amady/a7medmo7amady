@@ -72,12 +72,12 @@ currently_learning: Computer Visiob && Embedded systems
 ### GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=a7medmo7amady&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4FD1C5&icon_color=4FD1C5&text_color=c9d1d9" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=a7medmo7amady&theme=tokyonight&hide_border=true&background=0D1117&ring=4FD1C5&fire=4FD1C5&currStreakLabel=4FD1C5" />
+  <img width="33%" src="https://github-readme-stats.vercel.app/api?username=a7medmo7amady&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4FD1C5&icon_color=4FD1C5&text_color=c9d1d9" />
+  <img width="33%" src="https://github-readme-streak-stats.herokuapp.com?user=a7medmo7amady&theme=tokyonight&hide_border=true&background=0D1117&ring=4FD1C5&fire=4FD1C5&currStreakLabel=4FD1C5" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7medmo7amady&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4FD1C5&text_color=c9d1d9" />
+  <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7medmo7amady&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4FD1C5&text_color=c9d1d9" />
 </p>
 
 ---
