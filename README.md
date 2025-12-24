@@ -25,7 +25,7 @@ interests:
   - DevOps & Cloud Infrastructure
   - System Design & Architecture
   - Open Source Contribution
-currently_learning: Computer Visiob && Embedded systems
+currently_learning: Computer Vision && Embedded systems
 ```
 
 ---
