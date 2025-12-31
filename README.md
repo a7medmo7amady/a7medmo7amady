@@ -23,9 +23,8 @@ role: Software Engineer
 interests:
   - Web Development
   - DevOps & Cloud Infrastructure
-  - System Design & Architecture
   - Open Source Contribution
-currently_learning: Computer Vision && Embedded systems
+currently learning: Computer Vision && Embedded systems
 ```
 
 ---
