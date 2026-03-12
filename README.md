@@ -1,10 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Ahmad%20Muhammadi&fontSize=50&fontColor=4FD1C5&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Web%20Developer%20%7C%20DevOps%20Enthusiast&descSize=18&descAlignY=55&descAlign=50" width="100%" />
-</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=4FD1C5&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications;Automating+infrastructure+with+DevOps;Solving+complex+problems+with+code;Always+learning%2C+always+improving" alt="Typing SVG" />
-</p>
 
 <p align="center">
   <a href="https://github.com/a7medmo7amady">
@@ -37,7 +31,7 @@ currently learning: Computer Vision && Embedded systems
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=go,cpp,c,bash,js,ts&theme=dark" />
+<img src="https://skillicons.dev/icons?i=go,cpp,c,bash,js,ts,rust&theme=dark" />
 
 </td>
 <td align="center" width="50%">
@@ -53,7 +47,7 @@ currently learning: Computer Vision && Embedded systems
 
 **Backend & APIs**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,spring,dotnet,postgres,mongodb,redis&theme=dark" />
 
 </td>
 <td align="center">
@@ -79,17 +73,3 @@ currently learning: Computer Vision && Embedded systems
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7medmo7amady&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4FD1C5&text_color=c9d1d9" />
 </p>
 
-
----
-
-### Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=a7medmo7amady&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4FD1C5&line=4FD1C5&point=FFFFFF" width="100%" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=footer" width="100%" />
-</p>
