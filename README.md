@@ -14,4 +14,4 @@ currently learning: Compilers && Embedded systems
 - [ClipSphere](https://github.com/a7medmo7amady/ClipSphere) : Video streaming using ExpressJS and NextJS
 - [Floosflow](https://github.com/AliAshraf69420/FloosFlow) : Money Tracking app using ExpressJS and ReactJS
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadmuhamadi&layout=compact&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmadmuhamadi&theme=github)
