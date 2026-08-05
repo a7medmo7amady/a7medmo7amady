@@ -15,13 +15,17 @@ currently learning: Compilers && Embedded systems
 - [Reddit](https://github.com/a7medmo7amady/Reddit) : Reddit Clone Built using Gin , Spring and NodeJS in backend,and NextJS for Client
 - [ClipSphere](https://github.com/a7medmo7amady/ClipSphere) : Video streaming using ExpressJS and NextJS
 - [Floosflow](https://github.com/AliAshraf69420/FloosFlow) : Money Tracking app using ExpressJS and ReactJS
+
 ---
+
 <div align="center">
       <div align="center">
         <img src="https://github-readme-stats-salesp07.vercel.app/api?username=mohyware&count_private=true&theme=tokyonight&show_icons=true&rank_icon=github&border_radius=10" alt="GitHub Stats" width="450" />
       </div>
 </div>
+
 ---
+
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-mohammady-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
