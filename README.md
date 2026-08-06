@@ -20,7 +20,7 @@ currently learning: Compilers && Embedded systems
 
 <div align="center">
       <div align="center">
-        <img src="https://github-readme-stats-salesp07.vercel.app/api?username=mohyware&count_private=true&theme=tokyonight&show_icons=true&rank_icon=github&border_radius=10" alt="GitHub Stats" width="450" />
+        <img src="https://github-readme-stats-salesp07.vercel.app/api?username=ahmadmuhamadi&count_private=true&theme=tokyonight&show_icons=true&rank_icon=github&border_radius=10" alt="GitHub Stats" width="450" />
       </div>
 </div>
 
