@@ -37,3 +37,9 @@ currently learning: Compilers && Embedded systems
     <img src="https://img.shields.io/badge/Twitter-D14836?style=for-the-badge&logo=x&logoColor=Black&color=000000" />
   </a>
 </p>
+
+## Skills / Tech Stack
+
+Go, C/C++, Java, JavaScript, competitive programming (C++/Python), and Fedora Linux.
+
+![Metrics](./github-metrics.svg)
